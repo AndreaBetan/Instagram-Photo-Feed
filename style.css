@@ -1,0 +1,52 @@
+body {
+    background: gainsboro;
+    margin: 0;
+}
+
+div{
+    box-sizing: border-box;
+}
+
+header {
+    background: white;
+}
+
+header h1 {
+    font-size: 44px;
+    margin: 0;
+    padding: 10px;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+} 
+
+span {
+    color: rgb(210, 210, 210);
+}
+
+.post img {
+    width: 100%;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post {
+    background: white;
+    margin-top: 50px;
+}
+
+.post h2, span, p {
+    padding: 10px;
+    margin: 0;
+}
+
+
+
+
+
